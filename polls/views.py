@@ -5,6 +5,7 @@ from . models import Choice, Question
 from django.views import generic
 
 #following are non generic views
+
 #def index(request):
 #    latest_question_list = Question.objects.order_by('-pub_date')[:5]
 #    context = {'latest_question_list': latest_question_list}
