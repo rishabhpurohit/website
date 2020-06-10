@@ -1,2 +1,2 @@
-# website
-django website intro
+# DjangoBasics
+learning django
